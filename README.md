@@ -2,4 +2,5 @@
 
 - [CLI 명령어][lecture/cli.md]  
 - [Git 명령어][lecture/git.md]
-- Link: [Google][https://google.com "Go google"]
+[Google][googlelink]
+[googlelink]: https://google.com "Go google"
