@@ -1,0 +1,51 @@
+body{
+    color: green;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+.subject{
+    background-color: aqua;
+    padding: 20px 0;
+    position: sticky;
+    top: 0;
+
+}
+.title{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    background-color: orange;
+}
+.box{
+    position: relative;
+    left:50px;
+    background-color: black;
+    width: 500px;
+    height: 300px;
+}
+.inner{
+    position: absolute;
+    bottom:20px;
+    right:20px;
+    padding: 20px;
+    background-color: pink;
+}
+.headline{
+    background-color: pink;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+}
+.mdn{
+    display: block;
+    background-color: yellow;
+    padding: 20px 0;
+    width: 100px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    text-align: center;
+ 
+}
